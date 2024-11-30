@@ -1,0 +1,10 @@
+MeanPopulationSize: 100.0
+StdDevPopulationSize: 15.0
+DiseaseSpreadChance: 0.05
+DiseaseDeathChance: 0.05
+QuarantineDuration: 3
+QuarantinePercentChance: 0.4
+SimulationHours: 100
+TravelPercentChancePerHour: 0.6
+NumberOfLocations: 5
+CureChance: 0.01
